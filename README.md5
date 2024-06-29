@@ -1,4 +1,4 @@
-==创建ssh
+=创建ssh
 git config --global user.name "ghiewa"
 git config --global user.email "ghiewa@126.com"
 
@@ -8,7 +8,7 @@ github.com setting>SSH and GPG keys>New SSH Key>
 
 ssh-keygen -R github.com     #  必须否则会报错
 
-==创建项目
+=创建项目
 github.com your profile>Respositories>New 
 
 配置本地项目文件夹  右键菜单 Open Git Bash Here
