@@ -5,7 +5,7 @@ _things
 desktop.ini
 .DS_Store
 Console.lnk
-/doc
+/docs
 
 # Rust
 /target
